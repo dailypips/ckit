@@ -1,0 +1,12 @@
+[submodule "3rd/jemalloc"]
+	path = 3rd/jemalloc
+	url = https://github.com/jemalloc/jemalloc.git
+[submodule "3rd/libuv"]
+	path = 3rd/libuv
+	url = https://github.com/libuv/libuv.git
+[submodule "3rd/zlog"]
+	path = 3rd/zlog
+	url = https://github.com/dailypips/zlog.git
+[submodule "3rd/lua"]
+	path = 3rd/lua
+	url = https://github.com/dailypips/lua.git
